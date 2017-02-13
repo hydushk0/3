@@ -1,0 +1,248 @@
+.container {
+  background-color: #ffa;
+  padding-top: 10px;
+  border-radius: 30px;
+}
+.header {
+  margin-top: 20px;
+  background-color: #008000;
+  height: 50px;
+}
+.h_sosial_button1,
+.h_sosial_button2,
+.h_sosial_button3,
+.h_sosial_button4,
+.h_sosial_button5,
+.h_sosial_button7,
+.h_sosial_button8,
+.h_sosial_button9 {
+  width: 25px;
+  height: 25px;
+  display: inline-block;
+  margin-left: 10px;
+  margin-top: 10px;
+  border-radius: 20px;
+}
+.h_sosial_button1:hover,
+.h_sosial_button2:hover,
+.h_sosial_button3:hover,
+.h_sosial_button4:hover,
+.h_sosial_button5:hover,
+.h_sosial_button7:hover,
+.h_sosial_button8:hover,
+.h_sosial_button9:hover {
+  cursor: pointer;
+  background-color: #00f;
+}
+.h_sosial_button1 {
+  background: #000 url("#") center no-repeat;
+}
+.h_sosial_button2 {
+  background: #000 url("#") center no-repeat;
+}
+.h_sosial_button3 {
+  background: #000 url("#") center no-repeat;
+}
+.h_sosial_button4 {
+  background: #000 url("#") center no-repeat;
+}
+.h_sosial_button5 {
+  background: #000 url("#") center no-repeat;
+}
+.h_sosial_button6 {
+  background: #000 url("#") center no-repeat;
+}
+.h_sosial_button7 {
+  background: #000 url("#") center no-repeat;
+}
+.h_sosial_button8 {
+  background: #000 url("#") center no-repeat;
+}
+.h_sosial_button9 {
+  background: #000 url("#") center no-repeat;
+}
+.h_adress_gmail {
+  border-right: 3px solid #000;
+}
+.h_adress_gmail,
+.h_adress_tell {
+  margin-top: 12px;
+}
+.h_adress_gmail:hover {
+  cursor: pointer;
+}
+.h_adress_gmail_img,
+.h_adress_tell_img {
+  width: 25px;
+  height: 25px;
+  display: inline-block;
+}
+.h_adress_gmail_img {
+  background: #000 url("#") center no-repeat;
+  float: right;
+  margin-right: 20px;
+}
+.h_adress_tell_img {
+  background: #000 url("#") center no-repeat;
+  float: left;
+}
+.h_adress_tell_img {
+  margin-right: 20px;
+}
+.h_adress_gmail p,
+.h_adress_tell p {
+  margin-top: 3px;
+}
+.logo {
+  height: 250px;
+  background: #000 url("#") center no-repeat;
+}
+.logo_img {
+  width: 200px;
+  height: 150px;
+  background: #f00 url("#") no-repeat;
+  margin-top: 90px;
+  margin-left: 10px;
+}
+.search {
+  height: 50px;
+  background: #008000 url("#") center no-repeat;
+}
+.search_bread p,
+.search_icon p {
+  margin-top: 15px;
+}
+.search_icon {
+  margin-top: 10px;
+}
+.navi {
+  background: #00f url("#") center no-repeat;
+  height: 30px;
+}
+#navi_in li {
+  background-color: #f00;
+  width: 90px;
+  height: 30px;
+  border: 1px solid #000;
+}
+#navi_in > li {
+  float: left;
+  margin-left: 10px;
+  position: relative;
+  text-align: center;
+  padding-top: 5px;
+}
+#navi_in > li:last-child {
+  width: 190px;
+}
+#move1,
+#move2,
+#move3,
+#move11,
+#move12,
+#move13 {
+  display: none;
+}
+#move1 li,
+#move2 li,
+#move3 li {
+  bottom: -5px;
+  width: 160px;
+  position: relative;
+  padding-top: 5px;
+}
+#move1 li:nth-child(1),
+#move2 li:nth-child(1),
+#move3 li:nth-child(1) {
+  margin-top: 7px;
+}
+#move11 li,
+#move12 li,
+#move13 li {
+  top: -30px;
+  right: -158px;
+  position: relative;
+  width: 160px;
+  margin-left: 5px;
+}
+#move11 li:nth-child(1),
+#move12 li:nth-child(1),
+#move13 li:nth-child(1) {
+  right: -153px;
+  width: 165px;
+}
+.main {
+  display: none;
+}
+.news {
+  display: none;
+}
+.about {
+  display: none;
+}
+.querySearch {
+  display: none;
+}
+.guarantees {
+  display: none;
+}
+.published {
+  display: none;
+}
+.reports {
+  display: none;
+}
+.gifts {
+  display: none;
+}
+.goverment {
+  display: none;
+}
+.berezan {
+  display: none;
+}
+.ukraine {
+  display: none;
+}
+.yeah2011 {
+  display: none;
+}
+.yeah2012 {
+  display: none;
+}
+.yeah2013 {
+  display: none;
+}
+.yeah2014 {
+  display: none;
+}
+.yeah2015 {
+  display: none;
+}
+.targets {
+  display: none;
+}
+.shares {
+  display: none;
+}
+.grants {
+  display: none;
+}
+.foto {
+  display: none;
+}
+.video {
+  display: none;
+}
+.partners {
+  display: none;
+}
+.contacts {
+  display: none;
+}
+.help {
+  display: none;
+}
+.footer {
+  margin-top: 200px;
+}

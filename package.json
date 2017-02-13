@@ -1,0 +1,31 @@
+{
+  "name": "work1",
+  "version": "1.0.0",
+  "main": "1-2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^4.1.0",
+    "gulp-install": "^0.6.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-rename": "^1.2.2",
+    "gulp-stylus": "^2.3.1",
+    "gulp-watch": "^4.3.5",
+    "gulp-webserver": "^0.9.1",
+    "jade": "^1.11.0",
+    "jquery": "^3.0.0",
+    "moment": "^2.11.2",
+    "ntp-client": "^0.5.3",
+    "open": "0.0.5"
+  },
+  "devDependencies": {},
+  "description": "ERROR: No README data found!"
+}
